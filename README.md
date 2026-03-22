@@ -19,3 +19,9 @@ _**Waveform Viewer / WSL (Ubunutu)
 ### Simulation Waveform:
 ![ALU Waveform] (alu_waveform.png)
 
+---
+## Project 3: D-Flip-Flop with Asynchronous Reset
+- **Description:** Implemented a D-FF to understand sequential logic and memory elements.
+- **Key Learning:** Learned how 'Clock' and 'Reset' signals control data flow.
+- ![DFF Waveform] (dff_waveform.png)
+
