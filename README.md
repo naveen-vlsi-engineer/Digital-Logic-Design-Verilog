@@ -25,3 +25,13 @@ _**Waveform Viewer / WSL (Ubunutu)
 - **Key Learning:** Learned how 'Clock' and 'Reset' signals control data flow.
 - ![DFF Waveform] (dff_waveform.png)
 
+---
+## Project 4: 4-bit SISO Shift Register
+
+- **Description:** Implemented a 4-bit Serial-In Serial-Out (SISO) Shift Register using a chain of D-Flip Flops.
+- **Key Learning:** Learned how data "jumps" from one flip-flop to another on each clock pulse (Propagation Delay & Latency).
+- **Verification:** Simulated using `iverilog` and verified timing on `GTKwave`.
+
+#### Simulation Waveform:
+![Shift Register Waveform](shift_reg_waveform.png)
+
